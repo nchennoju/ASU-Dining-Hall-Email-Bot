@@ -1,0 +1,6 @@
+Breakfast: 10:00
+Lunch: 13:00
+Dinner: 16:25
+
+#Enter in format of HH:MM
+#24 Hour time
